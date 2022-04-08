@@ -22,21 +22,27 @@
 - [Blockchain Ecosystems](#blockchain-ecosystems)
 	- [Ethereum](#ethereum)
 	- [Cosmos](#cosmos)
+- [Twitter Threads](#twitter-threads)
+- [Twitter Accounts](#twitter-accounts)
+
+> 📣 I started this project from scratch. Steadily, I will update more resources and notes that I've found useful while learning development and security!
 
 <a name="getting-started"></a>
-### [↑](#synopsis) Getting Started
+## [↑](#synopsis) Getting Started
 
-- [Know about Ethereum - Wikipedia](https://en.wikipedia.org/wiki/Ethereum) :: The first go through resource to understand what is ethereum and how ethereum works.
-- [A short history of Ethereum](https://media.consensys.net/a-short-history-of-ethereum-a8fdc5b4362c) :: A good read! about History of Ethereum.
+- [Know about Ethereum - Wikipedia](https://en.wikipedia.org/wiki/Ethereum) : A good read to understand what is ethereum.
+- [A short history of Ethereum](https://media.consensys.net/a-short-history-of-ethereum-a8fdc5b4362c) : A good read! about History of Ethereum.
+- [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum book, perfect for beginners. I just started reading.
+- [How to become a smart contract auditor by cmichel (security)](https://cmichel.io/how-to-become-a-smart-contract-auditor/) : Beginner friendly blog-post to become a smart contract auditor.
 
 <a name="blockchain-ecosystems"></a>
-### [↑](#synopsis) Blockchain Ecosystems
+## [↑](#synopsis) Blockchain Ecosystems
 
 - [Ethereum](#ethereum)
 - [Cosmos](#cosmos)
 
 <a name="ethereum"></a>
-#### Ethereum
+### Ethereum
 
 - [Official Website of Ethereum](https://ethereum.org/)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -45,7 +51,7 @@
 - [Ethereum Developers Resources](https://ethereum.org/en/developers/)
 
 <a name="cosmos"></a>
-#### Cosmos*
+### Cosmos*
 
 - [Official Website of Cosmos](https://cosmos.network)
 - [Cosmos Whitepaper](https://v1.cosmos.network/resources/whitepaper)
@@ -57,12 +63,31 @@
 - [Starport Website](https://starport.com)
 - [Starport Documentation](https://docs.starport.com)
 
+<a name="twitter-threads"></a>
+## Twitter Threads
+
+- [officer_cia tweeted about how he investigate crypto hacks](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=FNXlIEYi1G8bKPwxn0_wxg)
+- [adrianhetman tweeted about how to make a jump from web2 hacking to web3 hacking](https://twitter.com/adrianhetman/status/1475550508354093072?s=20&t=FNXlIEYi1G8bKPwxn0_wxg)
+
+<a name="twitter-accounts"></a>
+## Twitter Accounts
+
+- officer_cia : [https://twitter.com/officer_cia](https://twitter.com/officer_cia)
+- adrianhetman : [https://twitter.com/adrianhetman](https://twitter.com/adrianhetman)
+- immunefi : [https://twitter.com/immunefi](https://twitter.com/immunefi)
+- morphean_sec : [https://twitter.com/morphean_sec](https://twitter.com/morphean_sec)
+- peckshield : [https://twitter.com/peckshield](https://twitter.com/peckshield)
+- 0xRajeev : [https://twitter.com/0xRajeev](https://twitter.com/0xRajeev)
+- Mudit_\_Gupta : [https://twitter.com/Mudit__Gupta](https://twitter.com/Mudit__Gupta)
+- maurelian_ : [https://twitter.com/maurelian_](https://twitter.com/maurelian_)
+- samczsun : [https://twitter.com/samczsun](https://twitter.com/samczsun)
+
 <a name="contact-me"></a>
-### Lil bit me and my secrets?
+## 🕵️ Lil bit me and my secrets?
 Hey, I am Sarvagya. A smol hacker who always eager to learn something new everyday. Currently Working in AssetMantle as DevSecOps Engineer (Securing the AssetMantle's Infrastructure). Few months before, I started learning blockchain, that time I don't have any idea from where to start learning. So, I want to store all the resources related to blockchain development and security. That's why I created this repository. I embrace the nerds, and I’m an aficionado of Samy Kamkar and Elon Musk. Hopefully, we cross paths in the real world someday, and we can make it a better place together. Happy to help. Now it's your time, Tell me your secrets. Feel free to disturb me.
 
-- Linkedin :: [iamsarvagyaa](https://www.linkedin.com/in/iamsarvagyaa/)
-- Twitter :: [iamsarvagyaa](https://twitter.com/iamsarvagyaa)
-- Instagram :: [iamsarvagyaa](https://instagram.com/iamsarvagyaa)
-- Keybase :: [iamsarvagyaa](https://keybase.io/iamsarvagyaa)
-- Github :: [iamsarvagyaa](https://github.com/iamsarvagyaa)
+- Linkedin : [iamsarvagyaa](https://www.linkedin.com/in/iamsarvagyaa/)
+- Twitter : [iamsarvagyaa](https://twitter.com/iamsarvagyaa)
+- Instagram : [iamsarvagyaa](https://instagram.com/iamsarvagyaa)
+- Keybase : [iamsarvagyaa](https://keybase.io/iamsarvagyaa)
+- Github : [iamsarvagyaa](https://github.com/iamsarvagyaa)
