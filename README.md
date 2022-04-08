@@ -1,5 +1,5 @@
 <div align="center">
-	<h1> Blockchain Bytes</h1>
+	<a href="https://github.com/iamsarvagyaa/BlockchainBytes"><img src="static/banner.png" alt="Blockchain Bytes"></a><br/>
 </div>
 <p align="center">
   <a href="#getting-started">Getting Started?</a> »
@@ -20,6 +20,8 @@
 
 - [Getting Started](#getting-started)
 - [Blockchain Ecosystems](#blockchain-ecosystems)
+	- [Ethereum](#ethereum)
+	- [Cosmos](#cosmos)
 
 <a name="getting-started"></a>
 ### [↑](#synopsis) Getting Started
@@ -34,7 +36,7 @@
 - [Cosmos](#cosmos)
 
 <a name="ethereum"></a>
-#### [↑](#synopsis) Ethereum
+#### Ethereum
 
 - [Official Website of Ethereum](https://ethereum.org/)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -43,7 +45,7 @@
 - [Ethereum Developers Resources](https://ethereum.org/en/developers/)
 
 <a name="cosmos"></a>
-#### [↑](#synopsis) Cosmos*
+#### Cosmos*
 
 - [Official Website of Cosmos](https://cosmos.network)
 - [Cosmos Whitepaper](https://v1.cosmos.network/resources/whitepaper)
