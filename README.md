@@ -22,6 +22,8 @@
 - [Blockchain Ecosystems](#blockchain-ecosystems)
 	- [Ethereum](#ethereum)
 	- [Cosmos](#cosmos)
+- [Healthy Digests](#healthy-digests)
+- [Github Repositories](#github-repositories)
 - [Twitter Threads](#twitter-threads)
 - [Twitter Accounts](#twitter-accounts)
 
@@ -32,8 +34,9 @@
 
 - [Know about Ethereum - Wikipedia](https://en.wikipedia.org/wiki/Ethereum) : A good read to understand what is ethereum.
 - [A short history of Ethereum](https://media.consensys.net/a-short-history-of-ethereum-a8fdc5b4362c) : A good read! about History of Ethereum.
-- [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum book, perfect for beginners. I just started reading.
+- [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum book, perfect for beginners.
 - [How to become a smart contract auditor by cmichel (security)](https://cmichel.io/how-to-become-a-smart-contract-auditor/) : Beginner friendly blog-post to become a smart contract auditor.
+- [Hacking the Blockchain: A guide to getting started in blockchain security](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) : Good read! Perfect for beginners like me :)
 
 <a name="blockchain-ecosystems"></a>
 ## [↑](#synopsis) Blockchain Ecosystems
@@ -63,14 +66,32 @@
 - [Starport Website](https://starport.com)
 - [Starport Documentation](https://docs.starport.com)
 
+<a name="healthy-digests"></a>
+## [↑](#synopsis) Healthy Digests
+
+- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html)
+- [Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
+- [Genesis 0x02: Basics of Blockchain](https://devansh.xyz/blockchain-security/2021/09/23/genesis-0x02.html)
+- [Genesis 0x03: Basics of Ethereum](https://devansh.xyz/blockchain-security/2021/10/01/genesis-0x03.html)
+- [Genesis 0x04: Learning Solidity in 30 Days](https://devansh.xyz/blockchain-security/2021/10/16/genesis-0x04.html)
+
+<a name="github-repositories"></a>
+## [↑](#synopsis) Github Repositories
+
+- [Solidity DevSecOps Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+- [Secure Smart Contract Design Principles](https://github.com/morphean-sec/secure-smart-contract-design-principles)
+- [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
+- [Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+
 <a name="twitter-threads"></a>
-## Twitter Threads
+## [↑](#synopsis) Twitter Threads
 
 - [officer_cia tweeted about how he investigate crypto hacks](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=FNXlIEYi1G8bKPwxn0_wxg)
 - [adrianhetman tweeted about how to make a jump from web2 hacking to web3 hacking](https://twitter.com/adrianhetman/status/1475550508354093072?s=20&t=FNXlIEYi1G8bKPwxn0_wxg)
 
 <a name="twitter-accounts"></a>
-## Twitter Accounts
+## [↑](#synopsis) Twitter Accounts
 
 - officer_cia : [https://twitter.com/officer_cia](https://twitter.com/officer_cia)
 - adrianhetman : [https://twitter.com/adrianhetman](https://twitter.com/adrianhetman)
