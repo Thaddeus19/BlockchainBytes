@@ -36,7 +36,7 @@
 - [A short history of Ethereum](https://media.consensys.net/a-short-history-of-ethereum-a8fdc5b4362c) : A good read! about History of Ethereum.
 - [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum book, perfect for beginners.
 - [How to become a smart contract auditor by cmichel (security)](https://cmichel.io/how-to-become-a-smart-contract-auditor/) : Beginner friendly blog-post to become a smart contract auditor.
-- [Hacking the Blockchain: A guide to getting started in blockchain security](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) : Good read! Perfect for beginners like me :)
+- [Hacking the Blockchain: A guide to getting started in blockchain security (sec)](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) : Good read! Perfect for beginners like me :)
 
 <a name="blockchain-ecosystems"></a>
 ## [↑](#synopsis) Blockchain Ecosystems
@@ -45,7 +45,7 @@
 - [Cosmos](#cosmos)
 
 <a name="ethereum"></a>
-### Ethereum
+### [↑](#synopsis) Ethereum
 
 - [Official Website of Ethereum](https://ethereum.org/)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -54,7 +54,7 @@
 - [Ethereum Developers Resources](https://ethereum.org/en/developers/)
 
 <a name="cosmos"></a>
-### Cosmos*
+### [↑](#synopsis) Cosmos*
 
 - [Official Website of Cosmos](https://cosmos.network)
 - [Cosmos Whitepaper](https://v1.cosmos.network/resources/whitepaper)
@@ -69,20 +69,32 @@
 <a name="healthy-digests"></a>
 ## [↑](#synopsis) Healthy Digests
 
-- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html)
-- [Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
-- [Genesis 0x02: Basics of Blockchain](https://devansh.xyz/blockchain-security/2021/09/23/genesis-0x02.html)
-- [Genesis 0x03: Basics of Ethereum](https://devansh.xyz/blockchain-security/2021/10/01/genesis-0x03.html)
-- [Genesis 0x04: Learning Solidity in 30 Days](https://devansh.xyz/blockchain-security/2021/10/16/genesis-0x04.html)
+- [Genesis 0x00: A Series on Blockchain Security (sec)](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html)
+- [Genesis 0x01: Simplified Roadmap for Blockchain Security (sec)](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
+- [Genesis 0x02: Basics of Blockchain (dev)](https://devansh.xyz/blockchain-security/2021/09/23/genesis-0x02.html)
+- [Genesis 0x03: Basics of Ethereum (dev)](https://devansh.xyz/blockchain-security/2021/10/01/genesis-0x03.html)
+- [Genesis 0x04: Learning Solidity in 30 Days (dev)](https://devansh.xyz/blockchain-security/2021/10/16/genesis-0x04.html)
 
 <a name="github-repositories"></a>
 ## [↑](#synopsis) Github Repositories
 
-- [Solidity DevSecOps Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
+- [BlockShell (dev)](https://github.com/daxeel/blockshell)
+- [CryptoList](https://github.com/coinpride/CryptoList)
+- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
+- [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains)
+- [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
+- [Awesome Blockchain Rust (dev)](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [Solidity Security Blog](https://github.com/sigp/solidity-security-blog)
+- [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Smart Contract Security Best Practices (sec)](https://github.com/ConsenSys/smart-contract-best-practices)
+- [Ethereum Developer Tools List (dev)](https://github.com/ConsenSys/ethereum-developer-tools-list)
+- [EthList: The Crowdsourced Ethereum Reading List (dev)](https://github.com/Scanate/EthList)
+- [BlockSec CTFs (sec)](https://github.com/blockthreat/blocksec-ctfs#readme)
+- [Solidity DevSecOps Standard (sec)](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
 - [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-- [Secure Smart Contract Design Principles](https://github.com/morphean-sec/secure-smart-contract-design-principles)
+- [Secure Smart Contract Design Principles (sec)](https://github.com/morphean-sec/secure-smart-contract-design-principles)
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
-- [Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Crypto-OpSec-SelfGuard-RoadMap (sec)](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 <a name="twitter-threads"></a>
 ## [↑](#synopsis) Twitter Threads
