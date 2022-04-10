@@ -22,6 +22,7 @@
 - [Blockchain Ecosystems](#blockchain-ecosystems)
 	- [Ethereum](#ethereum)
 	- [Cosmos](#cosmos)
+- [Hack to Learn](#hack-to-learn)
 - [Healthy Digests](#healthy-digests)
 - [Github Repositories](#github-repositories)
 - [Twitter Threads](#twitter-threads)
@@ -66,6 +67,13 @@
 - [Starport Website](https://starport.com)
 - [Starport Documentation](https://docs.starport.com)
 
+<a name="hack-to-learn"></a>
+## [↑](#synopsis) Hack to learn
+
+- [CryptoZombies](https://cryptozombies.io/) : Learn to Code Blockchain DApps By Building Simple Games
+- [Build Secure Smart Contracts in Solidity - Openzeppelin](https://openzeppelin.com/contracts/)
+- [Solidity by Example](https://solidity-by-example.org/)
+
 <a name="healthy-digests"></a>
 ## [↑](#synopsis) Healthy Digests
 
@@ -74,6 +82,8 @@
 - [Genesis 0x02: Basics of Blockchain (dev)](https://devansh.xyz/blockchain-security/2021/09/23/genesis-0x02.html)
 - [Genesis 0x03: Basics of Ethereum (dev)](https://devansh.xyz/blockchain-security/2021/10/01/genesis-0x03.html)
 - [Genesis 0x04: Learning Solidity in 30 Days (dev)](https://devansh.xyz/blockchain-security/2021/10/16/genesis-0x04.html)
+- [All known smart contract-side and user-side attacks and vulnerabilities in Web3.0, DeFi, NFT and Metaverse + Bonus](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [Solidity Cheatsheets Pack + Bonus](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 
 <a name="github-repositories"></a>
 ## [↑](#synopsis) Github Repositories
@@ -101,6 +111,9 @@
 
 - [officer_cia tweeted about how he investigate crypto hacks](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=FNXlIEYi1G8bKPwxn0_wxg)
 - [adrianhetman tweeted about how to make a jump from web2 hacking to web3 hacking](https://twitter.com/adrianhetman/status/1475550508354093072?s=20&t=FNXlIEYi1G8bKPwxn0_wxg)
+- [6 projects for your web3 portfolio with code](https://twitter.com/Aayush_gupta_ji/status/1512731108399480832?s=20&t=pDYsUZheLG97NtAyiRDRzw)
+- [Preparing for a smart contract audit](https://twitter.com/alcueca/status/1510892836820066307?s=20&t=pDYsUZheLG97NtAyiRDRzw)
+- [Collections of all known SC sec tools by officer_cia](https://twitter.com/officer_cia/status/1491830302922133505?s=20&t=pDYsUZheLG97NtAyiRDRzw)
 
 <a name="twitter-accounts"></a>
 ## [↑](#synopsis) Twitter Accounts
