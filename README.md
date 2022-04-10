@@ -22,6 +22,7 @@
 - [Blockchain Ecosystems](#blockchain-ecosystems)
 	- [Ethereum](#ethereum)
 	- [Cosmos](#cosmos)
+- [Hack to Learn](#hack-to-learn)
 - [Healthy Digests](#healthy-digests)
 - [Github Repositories](#github-repositories)
 - [Twitter Threads](#twitter-threads)
@@ -36,7 +37,7 @@
 - [A short history of Ethereum](https://media.consensys.net/a-short-history-of-ethereum-a8fdc5b4362c) : A good read! about History of Ethereum.
 - [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum book, perfect for beginners.
 - [How to become a smart contract auditor by cmichel (security)](https://cmichel.io/how-to-become-a-smart-contract-auditor/) : Beginner friendly blog-post to become a smart contract auditor.
-- [Hacking the Blockchain: A guide to getting started in blockchain security](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) : Good read! Perfect for beginners like me :)
+- [Hacking the Blockchain: A guide to getting started in blockchain security (sec)](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b) : Good read! Perfect for beginners like me :)
 
 <a name="blockchain-ecosystems"></a>
 ## [↑](#synopsis) Blockchain Ecosystems
@@ -45,7 +46,7 @@
 - [Cosmos](#cosmos)
 
 <a name="ethereum"></a>
-### Ethereum
+### [↑](#synopsis) Ethereum
 
 - [Official Website of Ethereum](https://ethereum.org/)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
@@ -54,7 +55,7 @@
 - [Ethereum Developers Resources](https://ethereum.org/en/developers/)
 
 <a name="cosmos"></a>
-### Cosmos*
+### [↑](#synopsis) Cosmos*
 
 - [Official Website of Cosmos](https://cosmos.network)
 - [Cosmos Whitepaper](https://v1.cosmos.network/resources/whitepaper)
@@ -66,29 +67,53 @@
 - [Starport Website](https://starport.com)
 - [Starport Documentation](https://docs.starport.com)
 
+<a name="hack-to-learn"></a>
+## [↑](#synopsis) Hack to learn
+
+- [CryptoZombies](https://cryptozombies.io/) : Learn to Code Blockchain DApps By Building Simple Games
+- [Build Secure Smart Contracts in Solidity - Openzeppelin](https://openzeppelin.com/contracts/)
+- [Solidity by Example](https://solidity-by-example.org/)
+
 <a name="healthy-digests"></a>
 ## [↑](#synopsis) Healthy Digests
 
-- [Genesis 0x00: A Series on Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html)
-- [Genesis 0x01: Simplified Roadmap for Blockchain Security](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
-- [Genesis 0x02: Basics of Blockchain](https://devansh.xyz/blockchain-security/2021/09/23/genesis-0x02.html)
-- [Genesis 0x03: Basics of Ethereum](https://devansh.xyz/blockchain-security/2021/10/01/genesis-0x03.html)
-- [Genesis 0x04: Learning Solidity in 30 Days](https://devansh.xyz/blockchain-security/2021/10/16/genesis-0x04.html)
+- [Genesis 0x00: A Series on Blockchain Security (sec)](https://devansh.xyz/blockchain-security/2021/09/13/genesis.html)
+- [Genesis 0x01: Simplified Roadmap for Blockchain Security (sec)](https://devansh.xyz/blockchain-security/2021/09/17/genesis-0x01.html)
+- [Genesis 0x02: Basics of Blockchain (dev)](https://devansh.xyz/blockchain-security/2021/09/23/genesis-0x02.html)
+- [Genesis 0x03: Basics of Ethereum (dev)](https://devansh.xyz/blockchain-security/2021/10/01/genesis-0x03.html)
+- [Genesis 0x04: Learning Solidity in 30 Days (dev)](https://devansh.xyz/blockchain-security/2021/10/16/genesis-0x04.html)
+- [All known smart contract-side and user-side attacks and vulnerabilities in Web3.0, DeFi, NFT and Metaverse + Bonus](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
+- [Solidity Cheatsheets Pack + Bonus](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
 
 <a name="github-repositories"></a>
 ## [↑](#synopsis) Github Repositories
 
-- [Solidity DevSecOps Standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
+- [BlockShell (dev)](https://github.com/daxeel/blockshell)
+- [CryptoList](https://github.com/coinpride/CryptoList)
+- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
+- [Awesome Blockchains](https://github.com/openblockchains/awesome-blockchains)
+- [Awesome Decentralized Finance](https://github.com/ong/awesome-decentralized-finance)
+- [Awesome Blockchain Rust (dev)](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
+- [Solidity Security Blog](https://github.com/sigp/solidity-security-blog)
+- [Awesome Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Smart Contract Security Best Practices (sec)](https://github.com/ConsenSys/smart-contract-best-practices)
+- [Ethereum Developer Tools List (dev)](https://github.com/ConsenSys/ethereum-developer-tools-list)
+- [EthList: The Crowdsourced Ethereum Reading List (dev)](https://github.com/Scanate/EthList)
+- [BlockSec CTFs (sec)](https://github.com/blockthreat/blocksec-ctfs#readme)
+- [Solidity DevSecOps Standard (sec)](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
 - [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
-- [Secure Smart Contract Design Principles](https://github.com/morphean-sec/secure-smart-contract-design-principles)
+- [Secure Smart Contract Design Principles (sec)](https://github.com/morphean-sec/secure-smart-contract-design-principles)
 - [Ultimate DeFi & Blockchain Research Base](https://github.com/OffcierCia/ultimate-defi-research-base)
-- [Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
+- [Crypto-OpSec-SelfGuard-RoadMap (sec)](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap)
 
 <a name="twitter-threads"></a>
 ## [↑](#synopsis) Twitter Threads
 
 - [officer_cia tweeted about how he investigate crypto hacks](https://twitter.com/officer_cia/status/1493395239905734667?s=20&t=FNXlIEYi1G8bKPwxn0_wxg)
 - [adrianhetman tweeted about how to make a jump from web2 hacking to web3 hacking](https://twitter.com/adrianhetman/status/1475550508354093072?s=20&t=FNXlIEYi1G8bKPwxn0_wxg)
+- [6 projects for your web3 portfolio with code](https://twitter.com/Aayush_gupta_ji/status/1512731108399480832?s=20&t=pDYsUZheLG97NtAyiRDRzw)
+- [Preparing for a smart contract audit](https://twitter.com/alcueca/status/1510892836820066307?s=20&t=pDYsUZheLG97NtAyiRDRzw)
+- [Collections of all known SC sec tools by officer_cia](https://twitter.com/officer_cia/status/1491830302922133505?s=20&t=pDYsUZheLG97NtAyiRDRzw)
 
 <a name="twitter-accounts"></a>
 ## [↑](#synopsis) Twitter Accounts
